@@ -1,14 +1,20 @@
 .Tittle{
    color: #e27227; 
    font-weight: bold;
-   font-size: 25px;
+   font-size: 23px;
    font-family: 'Times New Roman', Times, serif;
    text-align: center;
-   background-color: rgb(224, 223, 223);
+   background-color: white;
    border-radius: 30px;
+   border-color: bisque;
+   margin: 50px;
+   padding: 20px;
+   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 .Tittle_Paragraph{
     font-style: italic;
+    font-size: 18px;
+    opacity: 0.5;
 }
 thead {
     background-color: #ff6600;
@@ -52,10 +58,23 @@ h1,h2{
 .Part_5>p>a{
     background-color: #ff6600;
     border-radius: 10px;
-    font-size: 32px;
+    font-size: 18px;
     color: #f3f3f3;
     font-weight: 900;
     text-decoration: none;
     text-shadow: #e27227;
+    padding: 10px;
+}
+.Comeback{
+    margin: 30px;
     text-align: center;
+}
+.Part_1,.Part_4,.Part_5,.Part_2,.Part_3{
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 50px;
 }
