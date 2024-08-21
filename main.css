@@ -49,3 +49,13 @@ h1,h2{
 .Part_5 h3{
     color:#ff6600
 }
+.Part_5>p>a{
+    background-color: #ff6600;
+    border-radius: 10px;
+    font-size: 32px;
+    color: #f3f3f3;
+    font-weight: 900;
+    text-decoration: none;
+    text-shadow: #e27227;
+    
+}
