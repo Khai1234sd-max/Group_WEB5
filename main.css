@@ -1,3 +1,15 @@
+.Tittle{
+   color: #e27227; 
+   font-weight: bold;
+   font-size: 35px;
+   font-family: 'Times New Roman', Times, serif;
+   text-align: center;
+   background-color: rgb(224, 223, 223);
+   border-radius: 30px;
+}
+.Tittle_Paragraph{
+    font-style: italic;
+}
 thead {
     background-color: #ff6600;
     color: rgb(255, 255, 255);
