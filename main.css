@@ -14,7 +14,7 @@
 .Title_Paragraph{
     font-style: italic;
     font-size: 18px;
-    opacity: 0.5;
+    color: gray;
 }
 thead {
     background-color: #ff6600;
@@ -78,3 +78,54 @@ h1,h2{
     padding-bottom: 20px;
     margin: 50px;
 }
+.Part_2>p>p>a{
+    text-decoration: none;
+}
+
+header {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    color: white;
+    margin: 0;
+}
+
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+header ul li {
+    margin-left: 20px;
+}
+
+header ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+    transition: background-color 0.3s;
+}
+
+footer {
+    background-color: whitesmoke;
+    color: orange;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
