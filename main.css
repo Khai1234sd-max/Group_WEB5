@@ -55,7 +55,7 @@ h1,h2{
 .Part_5 h3{
     color:#ff6600
 }
-.Part_5>p>a{
+.Part_7>p>a{
     background-color: #ff6600;
     border-radius: 10px;
     font-size: 20px;
@@ -69,7 +69,7 @@ h1,h2{
     margin: 30px;
     text-align: center;
 }
-.Part_1,.Part_4,.Part_5,.Part_2,.Part_3{
+.Part_1,.Part_4,.Part_5,.Part_2,.Part_3,.Part_6,.Part_7{
     border-radius: 15px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     padding-left: 40px;
@@ -128,4 +128,27 @@ footer {
 footer p {
     margin: 5px 0;
 }
+.Picture_3{
+    text-align: center;
+}
+.Part_6>p>a{
+    text-decoration: none;
+    }
+.Part_6>.link{
+    text-align: center;
+}
+.Part_6>.Italic{
+    font-style: italic;
+    text-align: center;
+}
+.Part_7 a{
+    color: orange;
+    text-decoration: none;
+}
+.Part_7 p{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
 
